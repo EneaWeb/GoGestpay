@@ -11,11 +11,6 @@
             "email": "giovanni@cellie.it"
         }
     ],
-    "autoload": {
-        "psr-4": {
-            "EneaWeb\\gogestpay\\": "/lib"
-        }
-    },
     "require": {
         "php": ">=5.3.0"
     }
