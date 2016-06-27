@@ -1,0 +1,22 @@
+{
+    "name": "eneaweb/gogestpay",
+    "description": "Laravel GestPay gateway connection",
+    "keywords": ["gestpay", "bancasella", "payment", "e-commerce"],
+    "version": "1.0.1",
+    "minimum-stability": "stable",
+    "license": "LGPL-2.1",
+    "authors": [
+        {
+            "name": "Giovanni Cellie",
+            "email": "giovanni@cellie.it"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "EneaWeb\\gogestpay\\": "/lib"
+        }
+    },
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
